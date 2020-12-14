@@ -1,0 +1,29 @@
+.h1 {
+ text-align: center;
+ background-color: slateblue;
+ color:white;
+ font-size: 60px;
+ font-family: 'Courier New', Courier, monospace;
+}
+
+.back {
+  background-color:black;
+}
+
+.h2 {
+  color: white;
+  font-size: 40px;
+  font-family:'Courier New', Courier, monospace;
+  background-color: slateblue;
+}
+
+.b1 {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  color: yellow;
+}
+
+img {
+  float: right;
+  border: 5px solid slateblue;
+}
